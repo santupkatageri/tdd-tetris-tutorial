@@ -5,7 +5,7 @@
     <groupId>net.orfjackal.tdd-tutorial</groupId>
     <artifactId>tdd-tetris-tutorial</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>TDD Tetris Tutorial</name>
     <description>
